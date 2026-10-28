@@ -1,0 +1,32 @@
+# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/*
+!/[Bb]uilds/.gitkeep
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emory[Cc]aptures/
+/[Rr]ecordings/
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.booproj
+*.unityproj
+*.apk
+*.aab
+sysinfo.txt
+crashlytics-build.gradle
+*.pdb
+*.mdb
+# Large files: use GitHub Releases, not the repo
+*.zip
+*.exe
+!Trailer/*.mp4
+.DS_Store
